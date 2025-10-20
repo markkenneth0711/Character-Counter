@@ -36,9 +36,3 @@ A simple web app that counts the number of characters and words in a text input 
 
 ## 📜 License
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 👨‍💻 Author
-**Mark Kenneth Miranda**  
-- 💻 [GitHub](https://github.com/markkenneth0711)
